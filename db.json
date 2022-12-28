@@ -1,0 +1,7 @@
+{
+  "posts": [
+    { "id": 1, "title": "Bachelor of Science in Information Technology" },
+    { "id": 2, "title": "Bachelor of Science in Social Science" },
+    { "id": 3, "title": "Bachelor of Science in Computer Science" }
+  ]
+ }
